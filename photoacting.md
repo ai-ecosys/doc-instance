@@ -87,9 +87,9 @@ code值列表:
 ### 效果展示
 
 #### 原图片
-<img src="https://obai.ipolloverse.cn/resource/photoacting/source.jpg" width="300" height="150">
+<img src="https://obai.ipolloverse.cn/resource/photoacting/source.jpg" width="300" height="300">
 
 #### 生成后视频
 <a href="https://obai.ipolloverse.cn/resource/photoacting/dest.mp4">
-    <img src="https://obai.ipolloverse.cn/resource/photoacting/dest.png" width="300" height="150">
+    <img src="https://obai.ipolloverse.cn/resource/photoacting/dest.png" width="300" height="300">
 </a>
