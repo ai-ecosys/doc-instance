@@ -89,5 +89,5 @@
 
 #### 生成后视频
 <a href="https://github.com/ai-ecosys/doc-instance/blob/main/resource/videotalking/dest.mp4">
-    <img src="https://github.com/ai-ecosys/doc-instance/blob/main/resource/videotalking/dest.png" width="500" height="150">
+    <img src="https://github.com/ai-ecosys/doc-instance/blob/main/resource/videotalking/dest.png" width="300" height="150">
 </a>
