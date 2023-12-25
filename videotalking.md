@@ -82,7 +82,12 @@
 
 ## 效果展示
 
-[![原视频](https://github.com/ai-ecosys/doc-instance/blob/main/resource/videotalking/source.png)](https://github.com/ai-ecosys/doc-instance/blob/main/resource/videotalking/source.mp4)
+### 原视频
+<a href="https://github.com/ai-ecosys/doc-instance/blob/main/resource/videotalking/source.mp4">
+    <img src="https://github.com/ai-ecosys/doc-instance/blob/main/resource/videotalking/source.png" width="200" height="100">
+</a>
 
-[![生成后视频](https://github.com/ai-ecosys/doc-instance/blob/main/resource/videotalking/dest.png)](https://github.com/ai-ecosys/doc-instance/blob/main/resource/videotalking/dest.mp4)
-
+### 生成后视频
+<a href="https://github.com/ai-ecosys/doc-instance/blob/main/resource/videotalking/dest.mp4">
+    <img src="https://github.com/ai-ecosys/doc-instance/blob/main/resource/videotalking/dest.png" width="200" height="100">
+</a>
