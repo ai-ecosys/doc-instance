@@ -80,5 +80,11 @@
 | 200  | taskID字段缺失或者该字段不在服务队列中 |
 
 
+## 效果展示
 
+原视频：
+https://github.com/ai-ecosys/doc-instance/blob/main/resource/videotalking/source.mp4
+
+制作后视频：
+https://github.com/ai-ecosys/doc-instance/blob/main/resource/videotalking/dest.mp4
 
