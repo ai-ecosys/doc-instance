@@ -84,10 +84,10 @@
 
 #### 原视频
 <a href="https://github.com/ai-ecosys/doc-instance/blob/main/resource/videotalking/source.mp4">
-    <img src="https://github.com/ai-ecosys/doc-instance/blob/main/resource/videotalking/source.png" width="200" height="100">
+    <img src="https://github.com/ai-ecosys/doc-instance/blob/main/resource/videotalking/source.png" width="300" height="150">
 </a>
 
 #### 生成后视频
 <a href="https://github.com/ai-ecosys/doc-instance/blob/main/resource/videotalking/dest.mp4">
-    <img src="https://github.com/ai-ecosys/doc-instance/blob/main/resource/videotalking/dest.png" width="200" height="100">
+    <img src="https://github.com/ai-ecosys/doc-instance/blob/main/resource/videotalking/dest.png" width="500" height="150">
 </a>
