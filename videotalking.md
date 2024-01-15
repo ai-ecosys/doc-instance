@@ -83,11 +83,11 @@
 ### 效果展示
 
 #### 原视频
-<a href="https://obai.ipolloverse.cn/resource/videotalking/source.mp4">
-    <img src="https://obai.ipolloverse.cn/resource/videotalking/source.png" width="300" height="150">
+<a href="https://obai.aimc.digital/resource/videotalking/source.mp4">
+    <img src="https://obai.aimc.digital/resource/videotalking/source.png" width="300" height="150">
 </a>
 
 #### 生成后视频
-<a href="https://obai.ipolloverse.cn/resource/videotalking/dest.mp4">
-    <img src="https://obai.ipolloverse.cn/resource/videotalking/dest.png" width="300" height="150">
+<a href="https://obai.aimc.digital/resource/videotalking/dest.mp4">
+    <img src="https://obai.aimc.digital/resource/videotalking/dest.png" width="300" height="150">
 </a>
